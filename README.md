@@ -1,6 +1,7 @@
 # Recipe-App
 
-## This Application makes cooking easier, faster and more convenient. User can share their own dishes with proper instructions.
+## MERN Stack Application with User Authentication and easy navigation.
+### This Application makes cooking easier, faster and more convenient. User can share their own dishes with proper instructions.
 
 
 
